@@ -3,6 +3,7 @@ import { images } from "./images/images";
 export const gallaryImg = [
   {
     img: images.img1,
+    type: "featured",
   },
   {
     img: images.img2,
